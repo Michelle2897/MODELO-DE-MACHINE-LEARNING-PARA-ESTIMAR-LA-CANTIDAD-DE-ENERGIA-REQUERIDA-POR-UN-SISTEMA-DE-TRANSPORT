@@ -2,8 +2,7 @@
 Este repositorio contiene la programación de modelos de aprendizaje automático empleados para la predicción de energía de un catamarán funcionar en Galápagos, para efectos del cumplimiento de proyecto investigativo de masterado en curso.
 
 *Consideraciones: Para efectos de la programación requerida en las distintas faces del proceso de modelación se consideró el uso de dos bases debido al formato de la columna "Fecha". para los modelos ARIMA y SARIMAX se aplico un formato fecha día, hora, minutos, segundos. No obstante, este formato fue requerido al ejecutar el Análisis de componentes principales y la Red Neuronal.
-La nombrada "Base_final_1.7" será usada en la modelación ACP y Red neuronal
-La nombrada "Base_final_1.8" será usada en la modelación de los modelos de media movil*
+La nombrada "Base_final_1.7" será usada en la modelación ACP y Red neuronal, mientras que,"Base_final_1.8" será usada en la modelación de los modelos de media movil*
 
 
 # Análisis de componentes principales (PCA)
